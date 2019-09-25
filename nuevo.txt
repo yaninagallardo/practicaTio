@@ -1,3 +1,6 @@
 holaaa
+<<<<<<< HEAD
 chauu
 kkkkkk
+=======
+>>>>>>> prueba
